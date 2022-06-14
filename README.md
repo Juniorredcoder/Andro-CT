@@ -1,6 +1,7 @@
 # Andro-CT
 Execeute command from PC to Android
-![Screenshot at 2022-06-10 14-13-41](https://user-images.githubusercontent.com/99125491/173025464-a0aaa7a1-bed2-422a-9921-c44536a0fccb.png)
+![Screenshot at 2022-06-14 20-43-45](https://user-images.githubusercontent.com/99125491/173611232-a55ef38a-9598-4c90-a81c-0f1c0c01cff4.png)
+
 
 # Installation
 apt update &&
