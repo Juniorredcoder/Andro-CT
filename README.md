@@ -8,5 +8,5 @@ apt update &&
 apt install git &&
 git clone https://github.com/Juniorredcoder/Andro-CT &&
 cd Andro-CT &&
-chmod +x * &&
-bash anCT.py
+chmod +x * && bash setup.sh &&
+python anCT.py
