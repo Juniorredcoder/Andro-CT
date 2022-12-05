@@ -4,9 +4,12 @@ Execeute command from PC to Android
 
 
 # Installation
-apt update &&
-apt install git &&
-git clone https://github.com/Juniorredcoder/Andro-CT &&
-cd Andro-CT &&
-chmod +x * && bash setup.sh &&
+ ```
+ apt update
+apt install git
+git clone https://github.com/Juniorredcoder/Andro-CT 
+cd Andro-CT 
+chmod +x * 
+bash setup.sh 
 python anCT.py
+ ```
